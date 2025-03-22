@@ -29,7 +29,7 @@
 ### Backend  
 <a href="https://github.com/pirsztuk">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=dotnet,django,flask,docker,postgres,linux,nginx,cloudflare,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=dotnet,django,flask,docker,postgres,rabbitmq,redis,nginx,cloudflare,&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -46,7 +46,7 @@
 ### Others
 <a href="https://github.com/pirsztuk">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,discord,bootstrap,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,ubuntu,vscode,postman,discord,bootstrap,&perline=4" /> 
 </div>
 </a>
 </td>
