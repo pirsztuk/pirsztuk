@@ -55,7 +55,7 @@
 
 ## Connect with me:
 <div align="center">
-    <a href="https://www.linkedin.com/in/roman-pirshtuk-26848824b/" target="_blank"><img src="https://img.shields.io/badge/-Roman%20Pirshtuk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/roman-pirshtuk-26848824b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://t.me/pirshtuk_roman" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 </div>
 
