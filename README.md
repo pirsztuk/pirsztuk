@@ -74,29 +74,5 @@
 </p>
 
 
- <p align="center">
-   <a href="https://github.com/pirsztuk"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=pirsztuk&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
- </p>
-
-<br>
-
-<div id="header" align="center">
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirsztuk" alt="pirsztuk" /></a> </p>
-  
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-  <img src="https://komarev.com/ghpvc/?username=pirsztuk&style=for-the-badge&color=orange" alt=""/>
-</div>
-
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
-#
-
-<!-- <div align="center">
-  <a href="https://github.com/pirsztuk">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
-  </a>
- </div> -->
