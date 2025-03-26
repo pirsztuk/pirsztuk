@@ -73,6 +73,13 @@
   </a> 
 </p>
 
+<div id="header" align="center">
+ 
+   <img src="https://komarev.com/ghpvc/?username=pirsztuk&style=for-the-badge&color=orange" alt=""/>
+ </div>
+ 
+ 
+
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
