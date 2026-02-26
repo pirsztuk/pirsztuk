@@ -18,9 +18,8 @@
 
 
 - Actively participating in international events and hackathons. .
-- I am currently learning Data Structure And Algorithms in C#.
+- I am currently learning Data Science.
 - Typing speed 80 WPM.
-- I like watching podcasts and playing games and sports.
 
 ## Skill Set:
 
